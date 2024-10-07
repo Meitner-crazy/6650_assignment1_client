@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bbfdb3-bfb1-43d4-b1e0-cc7e52f1a219" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/responses.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ResortsSkier/ResortsApiExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/SkierLiftRideClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/SkierLiftRideClient2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/SkierLiftRideEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/SkierLiftRideEventList.java" afterDir="false" />
-    </list>
+    <list default="true" id="38bbfdb3-bfb1-43d4-b1e0-cc7e52f1a219" name="Changes" comment="6650_assignment1_client first version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,8 +142,23 @@
       <workItem from="1728076721958" duration="14267000" />
       <workItem from="1728180423953" duration="8501000" />
       <workItem from="1728327769437" duration="656000" />
-      <workItem from="1728329191540" duration="4113000" />
+      <workItem from="1728329191540" duration="4416000" />
     </task>
+    <task id="LOCAL-00001" summary="6650_assignment1_client first version">
+      <created>1728334549079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334549079</updated>
+    </task>
+    <task id="LOCAL-00002" summary="6650_assignment1_client first version">
+      <created>1728334580676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728334580676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +166,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="6650_assignment1_client first version" />
+    <option name="LAST_COMMIT_MESSAGE" value="6650_assignment1_client first version" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
